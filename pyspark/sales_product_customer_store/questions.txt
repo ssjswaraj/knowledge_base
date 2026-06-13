@@ -1,0 +1,59 @@
+# Beginner (15)
+
+1. Create `sale_amount = quantity * unit_price`.
+2. Find total revenue.
+3. Find average sale amount.
+4. Find total revenue by customer.
+5. Find total revenue by product.
+6. Find total revenue by store.
+7. Count customers by city.
+8. Count products by category.
+9. Find total quantity sold by product.
+10. Find sales made in May 2024.
+11. Find customers joined in 2024.
+12. Find products belonging to Electronics category.
+13. Find top 5 products by quantity sold.
+14. Find top 5 customers by revenue.
+15. Find category-wise revenue.
+
+# Intermediate (20)
+
+16. Show customer name with total revenue.
+17. Find customers with no sales.
+18. Find products with no sales.
+19. Find stores with no sales.
+20. Find duplicate customer records.
+21. Find duplicate sales records.
+22. Find customers who purchased more than one product.
+23. Find customers who purchased from multiple categories.
+24. Find customers who purchased from multiple brands.
+25. Find customers who purchased in multiple months.
+26. Find repeat customers.
+27. Find one-time customers.
+28. Customer lifetime revenue.
+29. Product lifetime revenue.
+30. Find customers whose revenue is above average customer revenue.
+31. Find products whose revenue is above average product revenue.
+32. Revenue contribution % by category.
+33. Revenue contribution % by brand.
+34. Revenue contribution % by customer.
+35. Find second highest revenue-generating customer.
+
+# Advanced (15)
+
+36. Rank customers by revenue.
+37. Dense rank customers by revenue.
+38. Top 3 customers by revenue.
+39. Rank products within category.
+40. Top 3 products per category.
+41. Find first purchase per customer.
+42. Find latest purchase per customer.
+43. Deduplicate records using `row_number()`.
+44. Find previous purchase date using `lag()`.
+45. Find next purchase date using `lead()`.
+46. Calculate days between purchases.
+47. Find previous purchase amount using `lag()`.
+48. Calculate running revenue by customer.
+49. Calculate running revenue by month.
+50. Find customers contributing 80% of total revenue.
+

@@ -1,0 +1,14 @@
+product_id,product_name,category,brand
+101,iPhone,Mobile,Apple
+102,Galaxy,Mobile,Samsung
+103,MacBook,Laptop,Apple
+104,ThinkPad,Laptop,Lenovo
+105,AirPods,Accessory,Apple
+106,Watch,Accessory,Samsung
+107,TV,Electronics,Sony
+108,Refrigerator,Electronics,LG
+109,Washing Machine,Electronics,LG
+110,Monitor,Electronics,Dell
+111,iPad,Tablet,Apple
+112,Surface Pro,Tablet,Microsoft
+113,Printer,Electronics,HP
