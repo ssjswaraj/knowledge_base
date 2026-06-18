@@ -30,8 +30,8 @@
 25. Find customers who purchased in multiple months.
 26. Find repeat customers.
 27. Find one-time customers.
-28. Customer lifetime revenue.
-29. Product lifetime revenue.
+28. Find average revenue per customer.
+29. Find average revenue per product.
 30. Find customers whose revenue is above average customer revenue.
 31. Find products whose revenue is above average product revenue.
 32. Revenue contribution % by category.
