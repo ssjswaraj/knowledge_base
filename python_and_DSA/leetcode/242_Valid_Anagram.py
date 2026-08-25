@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/valid-anagram/description/
-
+"""method 1"""
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
 
@@ -19,11 +19,18 @@ class Solution:
                 t_dict[i]=1
         
         for i in s_dict:
-
             if i in t_dict:
                 if s_dict[i]!=t_dict[i]:
                     return False
             else:
-
                 return False
         return True
+
+"""method 2"""
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+   
+        if "".join(sorted(s))=="".join(sorted(t)):
+            return True
+        else:
+            return False
