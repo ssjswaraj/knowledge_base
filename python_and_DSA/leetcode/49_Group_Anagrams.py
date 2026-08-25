@@ -24,3 +24,18 @@ class Solution:
         return dic_ans
 
 """method 2"""
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        dic={}
+        for word in strs:
+            # print("word",word)
+            sw="".join(sorted(word))
+            # print(sw)
+            if sw not in dic:
+                dic[sw]=[word]
+            else:
+                # print(sw,dic[sw])
+                dic[sw].append(word)
+
+        return list(dic.values())
+
