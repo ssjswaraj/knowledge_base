@@ -1,1 +1,1 @@
-hi
+This repository contains a collection of DSA problems along with detailed solutions in C++. The questions include popular LeetCode problems as well as commonly asked interview questions from various companies, covering a wide range of DSA concepts and difficulty levels.
